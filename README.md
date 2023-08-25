@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dimi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-### A little more about me...  
+### A little about me...  
 
 ```javascript
 const dimi = {
@@ -11,5 +11,13 @@ const dimi = {
 }
 ```
 
-<h4 align="left">GitHub Stats</h4>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimiprousalis&langs_count=10&theme=tokyonight&layout=compact" alt="dimiprousalis :: Top Languages" /></p>
+<h4 align="left">Let's connect!</h4>
+<a href="https://www.linkedin.com/in/dimitraprousalis/">
+  <img align="left" alt="Dimi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/dimiprousalis">
+  <img align="left" alt="Dimi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://twitter.com/DimiProusalis">
+  <img align="left" alt="Dimi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
